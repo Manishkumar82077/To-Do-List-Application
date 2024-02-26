@@ -1,0 +1,47 @@
+.main-page {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.filter-options {
+  margin-bottom: 10px;
+}
+
+.filter-options span {
+  margin-right: 10px;
+}
+
+.filter-options button {
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.todo-item input[type="checkbox"] {
+  margin-right: 10px;
+}
+
+.todo-item span {
+  flex-grow: 1;
+}
+
+.todo-item button {
+  background-color: transparent;
+  border: none;
+  color: red;
+  cursor: pointer;
+}
