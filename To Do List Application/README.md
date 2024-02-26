@@ -35,4 +35,13 @@ Welcome to our To-Do List Application! This tool helps individuals and teams man
 - 📱 **Cross-Platform Compatibility:** Access your tasks from any device.
 - 💾 **Data Backup and Recovery:** Safeguard against data loss with backup options.
 
+To install and run the project locally, follow these steps:
+
+- Clone the repository: `git clone https://github.com/Manishkumar82077/To-Do-List-Application.git`
+- Navigate into the cloned repository directory:
+- Install the dependencies: `npm install`
+- Start the development server: `npm run dev`
+
+The app will now be running at [http://localhost:5173/](http://localhost:5173/).
+
 Download now and streamline your task management process! 🚀
